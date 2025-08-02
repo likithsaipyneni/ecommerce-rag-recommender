@@ -1,0 +1,229 @@
+[
+  {
+    "id": "1",
+    "name": "MacBook Pro 16-inch M3 Max",
+    "category": "Laptops",
+    "brand": "Apple",
+    "price": 3499.00,
+    "description": "The most powerful MacBook Pro ever, featuring the groundbreaking M3 Max chip with 16-core CPU and 40-core GPU. Perfect for professional video editing, 3D rendering, and demanding creative workflows.",
+    "specifications": {
+      "processor": "Apple M3 Max 16-core CPU",
+      "memory": "36GB unified memory",
+      "storage": "1TB SSD",
+      "display": "16.2-inch Liquid Retina XDR",
+      "battery": "Up to 22 hours",
+      "weight": "4.8 lbs",
+      "ports": "3x Thunderbolt 4, HDMI, SDXC, MagSafe 3"
+    },
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Absolutely incredible performance for video editing. The M3 Max handles 8K footage like a dream. Battery life is outstanding.",
+        "date": "2024-01-15",
+        "verified": true
+      },
+      {
+        "rating": 4,
+        "text": "Great laptop but very expensive. The display quality is amazing and the build quality is top-notch as expected from Apple.",
+        "date": "2024-01-10",
+        "verified": true
+      },
+      {
+        "rating": 5,
+        "text": "Best laptop I've ever owned. Silent operation even under heavy load. Perfect for professional work.",
+        "date": "2024-01-08",
+        "verified": true
+      }
+    ],
+    "features": ["M3 Max chip", "Liquid Retina XDR display", "All-day battery life", "Professional audio", "Advanced thermal design"]
+  },
+  {
+    "id": "2",
+    "name": "Dell XPS 13 Plus",
+    "category": "Laptops",
+    "brand": "Dell",
+    "price": 1299.00,
+    "description": "Ultra-premium 13-inch laptop with InfinityEdge display and innovative design. Features 12th Gen Intel processors and advanced cooling for maximum performance in a compact form factor.",
+    "specifications": {
+      "processor": "Intel Core i7-1360P",
+      "memory": "16GB LPDDR5",
+      "storage": "512GB SSD",
+      "display": "13.4-inch 3.5K OLED touch",
+      "battery": "Up to 12 hours",
+      "weight": "2.73 lbs",
+      "ports": "2x Thunderbolt 4"
+    },
+    "reviews": [
+      {
+        "rating": 4,
+        "text": "Beautiful design and great display. The haptic touchpad takes some getting used to but works well once you adapt.",
+        "date": "2024-01-12",
+        "verified": true
+      },
+      {
+        "rating": 3,
+        "text": "Good performance but battery life could be better. The OLED display is gorgeous but impacts battery significantly.",
+        "date": "2024-01-05",
+        "verified": true
+      },
+      {
+        "rating": 4,
+        "text": "Excellent build quality and premium feel. Perfect for business use and light creative work.",
+        "date": "2024-01-03",
+        "verified": false
+      }
+    ],
+    "features": ["InfinityEdge display", "Haptic touchpad", "Premium materials", "Compact design", "Fast charging"]
+  },
+  {
+    "id": "3",
+    "name": "iPhone 15 Pro Max",
+    "category": "Smartphones",
+    "brand": "Apple",
+    "price": 1199.00,
+    "description": "The ultimate iPhone experience with titanium design, A17 Pro chip, and advanced camera system. Features Action Button, USB-C, and all-day battery life.",
+    "specifications": {
+      "processor": "A17 Pro chip",
+      "memory": "8GB",
+      "storage": "256GB",
+      "display": "6.7-inch Super Retina XDR",
+      "battery": "Up to 29 hours video",
+      "weight": "7.81 oz",
+      "camera": "48MP main, 12MP ultra-wide, 12MP telephoto"
+    },
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "The camera system is phenomenal. Night mode and portrait shots are incredible. The titanium build feels premium.",
+        "date": "2024-01-14",
+        "verified": true
+      },
+      {
+        "rating": 4,
+        "text": "Great phone overall. The Action Button is useful once you customize it. Battery life is excellent.",
+        "date": "2024-01-11",
+        "verified": true
+      },
+      {
+        "rating": 5,
+        "text": "Best iPhone ever made. The pro camera features are worth the upgrade. Gaming performance is outstanding.",
+        "date": "2024-01-09",
+        "verified": true
+      }
+    ],
+    "features": ["Titanium design", "A17 Pro chip", "Pro camera system", "Action Button", "USB-C"]
+  },
+  {
+    "id": "4",
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "price": 1299.00,
+    "description": "Samsung's flagship smartphone with S Pen, advanced AI features, and exceptional camera capabilities. Features Snapdragon 8 Gen 3 processor and 200MP camera.",
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 3",
+      "memory": "12GB",
+      "storage": "256GB",
+      "display": "6.8-inch Dynamic AMOLED 2X",
+      "battery": "5000mAh",
+      "weight": "8.22 oz",
+      "camera": "200MP main, 50MP periscope, 12MP ultra-wide"
+    },
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "The S Pen functionality is amazing for productivity. Camera zoom capabilities are unmatched in the industry.",
+        "date": "2024-01-13",
+        "verified": true
+      },
+      {
+        "rating": 4,
+        "text": "Great phone with lots of features. AI capabilities are impressive. Display quality is top-tier.",
+        "date": "2024-01-07",
+        "verified": true
+      },
+      {
+        "rating": 4,
+        "text": "Excellent performance and camera. The phone is quite large but manageable. Battery lasts all day easily.",
+        "date": "2024-01-04",
+        "verified": true
+      }
+    ],
+    "features": ["S Pen included", "200MP camera", "AI features", "Premium display", "All-day battery"]
+  },
+  {
+    "id": "5",
+    "name": "Sony WH-1000XM5",
+    "category": "Headphones",
+    "brand": "Sony",
+    "price": 399.00,
+    "description": "Industry-leading noise canceling headphones with exceptional sound quality. Features 30-hour battery life, multipoint connection, and adaptive sound control.",
+    "specifications": {
+      "driver": "30mm driver",
+      "frequency": "4Hz-40,000Hz",
+      "battery": "30 hours with ANC",
+      "weight": "8.81 oz",
+      "connectivity": "Bluetooth 5.2, 3.5mm jack",
+      "features": "Active Noise Canceling, Adaptive Sound Control"
+    },
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Best noise canceling headphones I've ever used. Sound quality is exceptional and comfort is great for long sessions.",
+        "date": "2024-01-16",
+        "verified": true
+      },
+      {
+        "rating": 4,
+        "text": "Great headphones overall. The noise canceling is very effective. Battery life is impressive.",
+        "date": "2024-01-06",
+        "verified": true
+      },
+      {
+        "rating": 5,
+        "text": "Perfect for travel and work. The adaptive features work seamlessly. Worth every penny.",
+        "date": "2024-01-02",
+        "verified": true
+      }
+    ],
+    "features": ["Industry-leading noise canceling", "30-hour battery", "Adaptive sound control", "Premium comfort", "Multipoint connection"]
+  },
+  {
+    "id": "6",
+    "name": "iPad Pro 12.9-inch M2",
+    "category": "Tablets",
+    "brand": "Apple",
+    "price": 1099.00,
+    "description": "The most advanced iPad with M2 chip performance. Features Liquid Retina XDR display, advanced cameras, and all-day battery life. Perfect for creative professionals.",
+    "specifications": {
+      "processor": "Apple M2 chip",
+      "memory": "8GB",
+      "storage": "128GB",
+      "display": "12.9-inch Liquid Retina XDR",
+      "battery": "Up to 10 hours",
+      "weight": "1.5 lbs",
+      "camera": "12MP wide, 10MP ultra-wide"
+    },
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Incredible performance for digital art and video editing. The display is stunning and the Apple Pencil integration is flawless.",
+        "date": "2024-01-17",
+        "verified": true
+      },
+      {
+        "rating": 4,
+        "text": "Great tablet but expensive. The M2 chip provides desktop-class performance. Perfect for productivity work.",
+        "date": "2024-01-12",
+        "verified": true
+      },
+      {
+        "rating": 5,
+        "text": "Best tablet for creative work. The display quality is unmatched. Battery life easily lasts a full workday.",
+        "date": "2024-01-08",
+        "verified": false
+      }
+    ],
+    "features": ["M2 chip performance", "Liquid Retina XDR display", "Apple Pencil support", "Pro cameras", "All-day battery"]
+  }
+]
